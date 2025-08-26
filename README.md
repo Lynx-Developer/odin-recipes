@@ -2,6 +2,10 @@
 
 A practice project made to understand **the basics and foundations of HTML**, following the teachings of the Odin Project's curriculum.
 
+## About the Project
+
+*The Odin Recipes* is a website dedicated to collecting a compilation of recipes to bring delicius meals to de family dinner.
+
 In this project, the topics that were tested are:
 
 - The HTML document's boilerplate.
@@ -11,4 +15,4 @@ In this project, the topics that were tested are:
 
 The completation of this project are a demostration of the knowledge adquire along the curriculum's progression.
 
-## **Status:** On Progress
+## **Status:** Completed
